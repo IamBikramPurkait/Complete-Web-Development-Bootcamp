@@ -44,12 +44,12 @@
     <hr>
 
     This the dummy paragraph text
-    <p>This is the paragraph</p>
+    <h3>This is the paragraph</h3>
     <hr>
 
     <!-- Let us now discuss the main advantage of emmet abbreviation. If we want some random texts up to any number of words then we can either copy from any article from the Internet or just write random words, which of course will not look good. To avoid this, we can write lorem and the number of words we want in a paragraph. Let us understand with an example- -->
 
-    <p>Lorem40 used for 40 random words</p>
+    <h3>Lorem40 used for 40 random words</h3>
     Lorem <em>This is emphasized</em> ipsum dolor sit amet consectetur adipisicing elit. Molestias, est?Lorem ipsum dolor sit amet consectetur adipisicing elit. <strong>This is strong</strong> Itaque cumque tempore at, doloremque quisquam perspiciatis sunt eum repellat, nam, rem sint? Laboriosam <strong> <em>This is emphasized and strong</em> </strong> fuga <b>Bold is here</b> ipsam eligendi <i>italic is here</i> iure provident sunt minus vero?
 
     <hr>
@@ -60,7 +60,7 @@
     </p>
     <!-- hr is also a self closing tag. it make a horizontal rule -->
     <hr>
-    p*4 used for make 4 p tag
+    <h3>p*4 used for make 4 p tag</h3>
     <p>First</p>
     <p>Second</p>
     <p>Third</p>
@@ -87,6 +87,56 @@
     <!-- Here a random image will be loaded because this URL stores multiple images and any one of them gets reloaded every time we refresh the webpage.  -->
     <!-- If you want to manipulate the dimensions of the images, you can use the “height" and “width" attribute of img tag. Though it is not recommended to manipulate the dimension using these attributes, we will use CSS to alter the design accordingly. Refer to the illustration below: -->
     <img src="https://source.unsplash.com/random" alt="error!" width = "300" height="300"><br>
+    <hr>
+    
+    <!-- unordered , ordered list and unorderd list -->
+    <h3>This is the nested unordered list</h3>
+    <ul type="circle">
+        <li>This is the first item of the unordered list</li>
+        <li>This is the second item of the unordered list</li>
+        <ul>
+            <li>Nested list one</li>
+            <li>Nested list two</li>
+            <li>Nested list three</li>
+        </ul>
+        <li>This is the Third item of the unordered list</li>
+    </ul>
+    <h3>This is the ordered list</h3>
+    <ol type="A">
+        <li>This is the first item of the ordered list</li>
+        <li>This is the second item of the ordered list</li>
+        <li>This is the Third item of the ordered list</li>
+    </ol>
+    <hr>
+
+    <!-- Table -->
+    <h3>HTML Table</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Employee Id</th>
+                <th>Employee Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> Bikram </td>
+                <td> 34343 </td>
+                <td> Programmer </td>
+            </tr>
+            <tr>
+                <td> Arup</td>
+                <td> 3483 </td>
+                <td> HTML Expert </td>
+            </tr>
+            <tr>
+                <td> Avijit </td>
+                <td> 7564 </td>
+                <td> Android Developer </td>
+            </tr>
+        </tbody>
+    </table>
     <hr>
 </body>
 
