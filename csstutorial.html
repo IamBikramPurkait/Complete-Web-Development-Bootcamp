@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CSS Tutorial</title>
+    <!-- Internal CSS -->
+    <style>
+        p{
+            color: brown;
+            background-color: bisque;
+        }
+    </style>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="csstutorial.css">
+
 </head>
 <body>
     <!-- CSS INTRODUCTION -->
@@ -15,6 +25,16 @@
 
 
 
-    
+    <!-- Inline, Internal & External CSS  -->
+    <!-- Precedence -> Which is present in last -->
+    <h2>Inline, Internal & External CSS </h2>
+
+    <!-- Inline CSS -->
+    <h3>Inline CSS</h3>
+        <p style="color: aquamarine; background-color: red;">This is the example of inline css</p>
+        <p>This is the example of Internal css</p>
+        <p>This is the example of External css</p>
+    <hr>
+
 </body>
 </html>
