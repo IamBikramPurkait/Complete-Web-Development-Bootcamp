@@ -1,0 +1,14 @@
+{
+  "name": "npm_introduction",
+  "version": "1.0.0",
+  "description": "This is the best package.",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
