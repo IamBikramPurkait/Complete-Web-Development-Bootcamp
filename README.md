@@ -13,4 +13,4 @@ Course Description : This Website development course will teach you about how to
 
 
 
-I am numbering file name for ease and make it folder wise.   
+I am numbering file name for ease and make it folder wise to try it as much simple as I can.   
