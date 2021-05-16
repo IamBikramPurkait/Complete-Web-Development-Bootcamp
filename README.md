@@ -1,5 +1,5 @@
 # Complete-Web-Development-Bootcamp
-Here I am uploaded all the things that i am learned throughout my web development journey.
+Here I am uploaded all the stuff which i am learned from this below course.
 
 ## Learning path
 
