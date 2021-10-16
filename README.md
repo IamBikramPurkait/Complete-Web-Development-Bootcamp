@@ -3,7 +3,7 @@ Here I am uploaded all the stuff which i am learned from  this below  course.
 
 ## Learning path
 
-I am create this repo when I am  l learning full stack web developer course from youtube.    
+I am create this repo when I am l learning full stack web developer course from youtube.    
 
 Channel name : [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)  
 Playlist Name : [Web Development Tutorials For Beginners In Hindi: HTML, CSS, JavaScript & More.] (https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)   
