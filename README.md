@@ -1,5 +1,5 @@
 # Complete-Web-Development-Bootcamp
-Here I am uploaded all the stuff which  i am learned from this below course
+Here I am uploaded all the stuff which i am learned from this below course
 ## Learning path
 
 I am create this repo when I am l learning  full stack web developer  course from youtube.    
